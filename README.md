@@ -20,7 +20,7 @@ computational neurology team. Currently, I am working on a study about cognitive
 
 ## IT consultant
 By accident, I am an IT consultant. You can ask me for help, ranging from programming to data analysis.
-### [Battenburg project](https://github.com/StevenGeysen/Battenburg_VIAS)
+### [Battenburg project](https://github.com/StevenGeysen/Battenburg)
 Commisioned by [VIAS](https://www.vias.be/), I programmed several experiments to study the visibility of the Belgian police.
 
 # Contact
