@@ -13,10 +13,10 @@ where we try to explain human behaviour under uncertainty with reinforcement lea
 
 It is a forever-project that I pick up whenever I have the time.
 
-## Modelling Alzheimer's disease
+## Research assistant
 As of October 2022 I am assisting [dr. Xenia Kobeleva](https://xenia-kobeleva.com/) in her research about Alzheimer's disease.
-I created a fMRI preprocessing [pipeline](https://indico.hiskp.uni-bonn.de/event/109/contributions/1068/) for the team.
-Currently, I am working on a study about cognitive reserve.
+I created a fMRI preprocessing [pipeline](https://indico.hiskp.uni-bonn.de/event/109/contributions/1068/) for her
+computational neurology team. Currently, I am working on a study about cognitive reserve.
 
 ## IT consultant
 By accident, I am an IT consultant. You can ask me for help, ranging from programming to data analysis.
