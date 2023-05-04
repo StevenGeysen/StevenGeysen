@@ -11,8 +11,6 @@ If I am not chasing new knowledge, I like to do sports (cycling, swimming, [ches
 With the help of dr. Anna Marzecová, I am continuing the work of my master thesis,
 where we try to explain human behaviour under uncertainty with reinforcement learning models.
 
-It is a forever-project that I pick up whenever I have the time.
-
 ## Research assistant
 As of October 2022 I am assisting [dr. Xenia Kobeleva](https://xenia-kobeleva.com/) in her research about Alzheimer's disease.
 I created a fMRI preprocessing [pipeline](https://indico.hiskp.uni-bonn.de/event/109/contributions/1068/) for her
