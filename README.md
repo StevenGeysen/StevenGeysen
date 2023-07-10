@@ -17,8 +17,8 @@ reinforcement learning models.
 ## Research assistant
 As of October 2022 I am a research assistant in the
 [Computational Neurology Research Group](https://computationalneurology.com/)
-of Dr Xenia Kobeleva. To prepare the analysis of the large fMRI dataset we
-work with, I created a fMRI preprocessing
+of Prof Dr Xenia Kobeleva. To prepare the analysis of the large fMRI datasets
+we use, I created a fMRI preprocessing
 [pipeline](https://indico.hiskp.uni-bonn.de/event/109/contributions/1068/,
 'TRA poster'). Currently, I am working on a study about cognitive reserve.
 I try to predict the trajectory of Alzheimer's disease based on the amount
