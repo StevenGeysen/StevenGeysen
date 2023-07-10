@@ -15,16 +15,14 @@ thesis, where we try to explain human behaviour under uncertainty with
 reinforcement learning models.
 
 ## Research assistant
-As of October 2022 I am assisting
-[Dr Xenia Kobeleva](https://xenia-kobeleva.com/) in her research about
-Alzheimer's disease. For the
+As of October 2022 I am a research assistant in the
 [Computational Neurology Research Group](https://computationalneurology.com/)
-I created a fMRI preprocessing
+of Dr Xenia Kobeleva. To prepare the analysis of the large fMRI dataset we
+work with, I created a fMRI preprocessing
 [pipeline](https://indico.hiskp.uni-bonn.de/event/109/contributions/1068/,
-'TRA poster').
-Currently, I am working on a study about cognitive reserve. I try to predict
-the trajectory of Alzheimer's disease based on the cognitive reserve a patient
-has.
+'TRA poster'). Currently, I am working on a study about cognitive reserve.
+I try to predict the trajectory of Alzheimer's disease based on the amount
+of cognitive reserve a patient has.
 
 ## IT consultant
 By accident, I am an IT consultant. You can ask me for help, ranging from
