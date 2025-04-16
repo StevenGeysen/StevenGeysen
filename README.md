@@ -47,7 +47,7 @@ under uncertainty with reinforcement learning models. When I find the time,
 I hope to continue this work since a lot more can be done.
 
 # Contact
-If you want to reach out, [Twitter](https://twitter.com/steven_geysen) or
+If you want to reach out, [BlueSky](https://bsky.app/profile/stevengeysen.bsky.social) or
 [Mastodon](https://neuromatch.social/@steven_geysen) are the easiest.
 
 _For legal purposes: my BTW number is 0800.486.263_
